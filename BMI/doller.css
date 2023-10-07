@@ -1,0 +1,48 @@
+.container{
+    width: 550px;
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.852);
+    color: azure;
+}
+ h1{
+  text-align: center;
+  font-size: 23PX;
+  position: absolute;
+  top: 3px;  
+  left: 90px;
+}
+form{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+form input{
+    width: 400px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.852);
+     box-shadow: 6px 6px 6px black;
+     border: none;
+     color: antiquewhite;
+    }
+    select{
+        position: relative;
+        top: 30px;
+        left: 80%;
+        width: 80px;
+        height: 30px;
+        color: antiquewhite;
+        background: rgba(0, 0, 0, 0.852);
+        border: none;
+    }
+    #btn1 button{
+        width: 150px;
+        height: 60px;
+        box-shadow: 6px 6px 6px black;
+        color: antiquewhite;
+        background-color:rgba(0, 0, 0, 0.852) ;
+        position: relative;
+        left: 25%;
+        top: 80%;
+        border: none;
+      font-size: 20px;
+    }
